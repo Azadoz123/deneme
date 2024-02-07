@@ -1,1 +1,3 @@
-# Master 1
+# Master 
+- Burada bir açıklama gerçekleştirmektedir.
+## Bu Yeni Bir Başlık
